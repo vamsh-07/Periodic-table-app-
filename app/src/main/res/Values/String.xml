@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Periodic Table</string>
+    <string name="element_details">Element Details</string>
+</resources>
